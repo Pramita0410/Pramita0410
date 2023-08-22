@@ -3,7 +3,6 @@
 <h1 align="center">Hey👋, I'm Pramita Dileep Sandhyan</h1>
 <h3 align="center">A Data Enthusiast exploring the wonders of Data</h3>
 
-Pronouns: She/Her
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m a Grad student at Northeastern University
