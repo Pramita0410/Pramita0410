@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pramitasandhyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramitasandhyan" height="30" width="40" /></a>
 <a href="https://kaggle.com/pramitasandhyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pramitasandhyan" height="30" width="40" /></a>
-<a href="https://medium.com/@pramitasandhyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pramitasandhyan" height="30" width="40" /></a>
+<a href="https://medium.com/@pramita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pramitasandhyan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills: </h3>
