@@ -2,13 +2,13 @@
 
 <h1 align="center">Hey👋, I'm Pramita Dileep Sandhyan</h1>
 <h3 align="center">A Data Enthusiast exploring the wonders of Data</h3>
-
+- 😄 Pronouns: She/Her
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m a Grad student at Northeastern University
 - 🌱 I’m currently looking for Fall'23/ Spring'24 internship roles as Data Analyst/ Data Engineer/ Data Scientist
 - :open_book:	 I’m currently learning Apache Spark
-- 😄 Pronouns: She/Her
+
 - ⚡ Fun fact: Data maestro by day, music enthusiast by night - ready to harmonize creativity and insights for your team. 🎵📊🌟
 
 - 📫 How to reach me **sandhyan.p@northeastern.edu**
