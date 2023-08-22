@@ -9,7 +9,7 @@
 - 🌱 I’m currently looking for Fall'23/ Spring'24 internship roles as Data Analyst/ Data Engineer/ Data Scientist
 - :open_book:	 I’m currently learning Apache Spark
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Data maestro by day, music and anime enthusiast by night - ready to harmonize creativity and insights for your team. 🎵📊🌟
+- ⚡ Fun fact: Data maestro by day, music enthusiast by night - ready to harmonize creativity and insights for your team. 🎵📊🌟
 
 - 📫 How to reach me **sandhyan.p@northeastern.edu**
 
