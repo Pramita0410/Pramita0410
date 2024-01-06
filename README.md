@@ -6,8 +6,8 @@
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m a Grad student at Northeastern University
-- 🌱 I’m currently looking for Fall'23/ Spring'24 internship roles as Data Analyst/ Data Engineer/ Data Scientist
-- :open_book:	 I’m currently learning Apache Spark
+- 🌱 I’m actively looking for Full-time roles as Data Analyst/ Data Engineer/ Data Scientist / Business Intelligence Developer
+- :open_book:	 I’m currently learning ReactJS
 
 - ⚡ Fun fact: Data maestro by day, music enthusiast by night - ready to harmonize creativity and insights for your team. 🎵📊🌟
 
