@@ -7,7 +7,7 @@
 
 - 🔭 I’m a Grad student at Northeastern University
 - 🌱 I’m actively looking for Full-time roles as Data Analyst/ Data Engineer/ Data Scientist / Business Intelligence Developer
-- :open_book:	 I’m currently learning ReactJS
+- :open_book:	 I’m currently learning Snowflake
 
 - ⚡ Fun fact: Data maestro by day, music enthusiast by night - ready to harmonize creativity and insights for your team. 🎵📊🌟
 
