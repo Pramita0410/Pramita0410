@@ -23,25 +23,19 @@ From designing data pipelines and building cloud solutions to automating workflo
 
 🎓 Graduate Student at Northeastern University
 
-💼 Seeking Full-Time Opportunities in:
-- Data Engineering
-- Data Analytics
-- Business Intelligence
-- Data Science
+💼 Currently working as a Technology Specialist at Hughes Networks System an Echostar Company
 
-🌱 Currently exploring:
-- Generative AI
-- AI Agents
-- Intelligent Automation
-- Cloud-Native Architectures
+🔧 Experienced in Data Engineering, Workflow Automation, Cloud Infrastructure, Analytics, and System Integration
 
-☁️ Interested in scalable systems, workflow automation, and modern data platforms
+🌱 Currently exploring Generative AI, AI Agents, and Intelligent Automation
 
-📊 Passionate about transforming data into actionable insights and business impact
+☁️ Hands-on experience with  GCP, Kubernetes, Docker, PostgreSQL, APIs,  n8n, Oracle, and SQL
 
-🚀 I enjoy building solutions that eliminate repetitive work and simplify complex processes
+📊 Passionate about turning data into insights and business problems into scalable solutions
 
-📫 **sandhyan.p@northeastern.edu**
+🚀 I enjoy building systems that eliminate repetitive work, streamline operations, and create measurable impact
+
+📫 Reach me at: **sandhyan.p@northeastern.edu**
 
 ---
 
@@ -52,7 +46,6 @@ From designing data pipelines and building cloud solutions to automating workflo
 - Cloud-Native Applications
 - APIs & System Integrations
 - Business Intelligence Dashboards
-- Machine Learning Applications
 - AI-Powered Solutions
 - Scalable Data Platforms
 
@@ -63,8 +56,6 @@ From designing data pipelines and building cloud solutions to automating workflo
 🔹 Generative AI & LLM Applications
 
 🔹 AI Agents & Autonomous Workflows
-
-🔹 Workflow Automation & Orchestration
 
 🔹 Cloud Infrastructure & Kubernetes
 
