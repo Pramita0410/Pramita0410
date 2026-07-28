@@ -71,10 +71,10 @@ From designing data pipelines and building cloud solutions to automating workflo
 Python • SQL • JavaScript • Java • PHP
 
 ### Data & Analytics
-Pandas • NumPy • Scikit-Learn • TensorFlow • PyTorch • Seaborn
+Pandas • NumPy • Scikit-Learn • Seaborn
 
 ### Databases
-PostgreSQL • MySQL • SQL Server • MongoDB • Cassandra
+PostgreSQL • MySQL • SQL Server 
 
 ### Cloud & DevOps
 AWS • Azure • Google Cloud Platform • Kubernetes • Docker • Git
@@ -90,7 +90,7 @@ Flask • Django
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/pramitas" target="_blank">
+  <a href="https://linkedin.com/in/pramitadileeps" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 
