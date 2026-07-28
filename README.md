@@ -1,26 +1,119 @@
-
-
-<h1 align="center">Hey👋, I'm Pramita Dileep Sandhyan</h1>
-<h3 align="center">A Data Enthusiast exploring the wonders of Data</h3>
-
-<h3 align="left">About Me:</h3>
-
-- 🔭 I’m a Grad student at Northeastern University
-- 🌱 I’m actively looking for Full-time roles as Data Analyst/ Data Engineer/ Data Scientist / Business Intelligence Developer
-- :open_book:	 I’m currently learning Gen AI
-
-- ⚡ Fun fact: Data maestro by day, music enthusiast by night - ready to harmonize creativity and insights for your team. 🎵📊🌟
-
-- 📫 How to reach me **sandhyan.p@northeastern.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pramitasandhyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramitasandhyan" height="30" width="40" /></a>
-<a href="https://kaggle.com/pramitasandhyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pramitasandhyan" height="30" width="40" /></a>
-<a href="https://medium.com/@pramita689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pramitasandhyan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Pramita%20Sandhyan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20|%20Engineering%20|%20Cloud%20|%20Automation%20|%20AI&descAlignY=60"/>
 </p>
 
-<h3 align="left">Skills: </h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Engineer;Automation+Builder;Cloud+Enthusiast;AI+Explorer;Always+Learning+Something+New" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Pramita Dileep Sandhyan</h1>
 
+<h3 align="center">
+Data Engineer • Automation Builder • Cloud Enthusiast • AI Explorer
+</h3>
+
+<p align="center">
+I enjoy solving problems with data, automation, and technology.
+From designing data pipelines and building cloud solutions to automating workflows and exploring Generative AI, I'm passionate about creating solutions that make work smarter, faster, and more scalable.
+</p>
+
+---
+
+## ✨ About Me
+
+🎓 Graduate Student at Northeastern University
+
+💼 Seeking Full-Time Opportunities in:
+- Data Engineering
+- Data Analytics
+- Business Intelligence
+- Data Science
+
+🌱 Currently exploring:
+- Generative AI
+- AI Agents
+- Intelligent Automation
+- Cloud-Native Architectures
+
+☁️ Interested in scalable systems, workflow automation, and modern data platforms
+
+📊 Passionate about transforming data into actionable insights and business impact
+
+🚀 I enjoy building solutions that eliminate repetitive work and simplify complex processes
+
+📫 **sandhyan.p@northeastern.edu**
+
+---
+
+## 🚀 What I Enjoy Building
+
+- Data Pipelines & ETL Workflows
+- Workflow Automation with **n8n**
+- Cloud-Native Applications
+- APIs & System Integrations
+- Business Intelligence Dashboards
+- Machine Learning Applications
+- AI-Powered Solutions
+- Scalable Data Platforms
+
+---
+
+## 🌱 Current Interests
+
+🔹 Generative AI & LLM Applications
+
+🔹 AI Agents & Autonomous Workflows
+
+🔹 Workflow Automation & Orchestration
+
+🔹 Cloud Infrastructure & Kubernetes
+
+🔹 Data Engineering & Analytics
+
+🔹 Intelligent Business Process Automation
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+Python • SQL • JavaScript • Java • PHP
+
+### Data & Analytics
+Pandas • NumPy • Scikit-Learn • TensorFlow • PyTorch • Seaborn
+
+### Databases
+PostgreSQL • MySQL • SQL Server • MongoDB • Cassandra
+
+### Cloud & DevOps
+AWS • Azure • Google Cloud Platform • Kubernetes • Docker • Git
+
+### Automation & Integration
+n8n • REST APIs • Workflow Automation • System Integration
+
+### Frameworks
+Flask • Django
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/pramitas" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://kaggle.com/pramitasandhyan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://medium.com/@pramita689" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I believe that if a task requires more than a few repetitive clicks, there's probably a better way—and I'm probably already thinking about how to automate it .
