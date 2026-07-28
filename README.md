@@ -23,7 +23,7 @@ From designing data pipelines and building cloud solutions to automating workflo
 
 🎓 Graduate Student at Northeastern University
 
-💼 Currently working as a Technology Specialist at Hughes Networks System an Echostar Company
+💼 Currently working as a Operations Analyst/Engineer at Hughes Network Systems an EchoStar Company
 
 🔧 Experienced in Data Engineering, Workflow Automation, Cloud Infrastructure, Analytics, and System Integration
 
