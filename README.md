@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Engineer;Automation+Builder;Cloud+Enthusiast;AI+Explorer;Always+Learning+Something+New" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Pramita Dileep Sandhyan</h1>
+<h1 align="center">Hi, I'm Pramita Dileep Sandhyan</h1>
 
 <h3 align="center">
 Data Engineer • Automation Builder • Cloud Enthusiast • AI Explorer
