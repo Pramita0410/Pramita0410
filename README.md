@@ -29,7 +29,7 @@ From designing data pipelines and building cloud solutions to automating workflo
 
 🌱 Currently exploring Generative AI, AI Agents, and Intelligent Automation
 
-☁️ Hands-on experience with  GCP, Kubernetes, Docker, PostgreSQL, APIs,  n8n, Oracle, and SQL
+☁️ Hands-on experience with  GCP, Kubernetes, Docker, PostgreSQL, APIs,  n8n, Figma, Oracle, and SQL
 
 📊 Passionate about turning data into insights and business problems into scalable solutions
 
